@@ -1,0 +1,49 @@
+name: kirby.bailey
+description: Exclusive
+version: 0.0.1
+author: trgfzog2.vl7msj6a@4awbalcp.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: kirbybailey
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-13 21:30:54'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-13 21:30:54'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-13T21:30:54.358454Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '2081850795'
+  createdAt: '2025-02-13T21:30:54.358454Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
